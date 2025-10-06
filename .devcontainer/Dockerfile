@@ -2,4 +2,4 @@
 FROM leontoddjohnson/h501-week-1:latest
 
 # remove the autograder directory
-RUN rm -r /autograder
+# RUN rm -r /autograder
